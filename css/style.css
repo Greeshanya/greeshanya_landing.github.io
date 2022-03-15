@@ -100,7 +100,7 @@ img {
 .about__text, .resume__items, .skills__items, .info-items{
 	width: content;
 	height: contents;
-	margin: 50px 80px 0;
+	margin: 50px 80px;
 	line-height: 1.8;
 }
 
@@ -428,7 +428,7 @@ h1 {
 
 	.about__text, .resume__items, .skills__items, .info-items{
 		width: 90%;
-		margin: 50px 30px 0;
+		margin: 50px 30px;
 		line-height: 1.2;
 	}
 
